@@ -27,7 +27,7 @@
         "conia/development": "^1.0.2",
         "dealerdirect/phpcodesniffer-composer-installer": "^1",
         "guzzlehttp/psr7": "^2",
-        "laminas/laminas-diactoros": "^2",
+        "laminas/laminas-diactoros": "^2 || ^3",
         "nyholm/psr7": "^1.8",
         "nyholm/psr7-server": "^1",
         "phpunit/phpunit": "^10",
